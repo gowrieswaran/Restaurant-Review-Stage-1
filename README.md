@@ -20,7 +20,7 @@ Click on the link :
 
 ### How to Run locally
 
- - Click on the link :
+ - Click on the link : https://github.com/gowrieswaran/restaurant-review-stage-1.git
 
  - Clone or Download(ZIP) the repository to your local machine
 
