@@ -14,10 +14,6 @@ One has to focus on the following three areas to make the webpage mobile-ready.
 - Convert the design to be responsive on different sized displays  
 - Add a service worker 
 
-## How to Run
-
-Click on the link : https://gowrieswaran.github.io/restaurant-review-stage-1/
-
 ### How to Run locally
 
  - Click on the link : https://github.com/gowrieswaran/restaurant-review-stage-1.git
